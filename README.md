@@ -19,3 +19,8 @@ Plugin wordpress to read xml from url and show map in widget
 - Map recherche by postcode or ville or name 
 - cron script to update all informations   
 - Enable user to add widget with shortcode 
+
+#Demonstration
+
+see video into img folder img/custom_map_video.mp4
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](img/custom_map_video.mp4)
